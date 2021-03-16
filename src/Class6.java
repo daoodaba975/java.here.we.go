@@ -1,4 +1,4 @@
-public class CnumDIV {
+public class Class6 {
 
 	static void Divisible(int nbr) {
 		

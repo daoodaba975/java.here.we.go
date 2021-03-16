@@ -1,4 +1,4 @@
-public class Cmax2num {
+public class Class1 {
 
 	static void MaxNum(int a, int b) {
 		

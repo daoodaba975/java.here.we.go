@@ -1,4 +1,4 @@
-public class CyearsBI {
+public class Class4 {
 
 	static void AnneeBisextile(int y) {
 		

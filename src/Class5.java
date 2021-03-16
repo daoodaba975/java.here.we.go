@@ -1,4 +1,4 @@
-public class CnumPNN {
+public class Class5 {
 
 	static void NumPNN(int nbr) {
 		

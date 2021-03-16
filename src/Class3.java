@@ -1,4 +1,4 @@
-public class CnumPI {
+public class Class3 {
 	
 	static void NumPairImpair(int nbr) {
 		
